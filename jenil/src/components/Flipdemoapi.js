@@ -78,7 +78,7 @@ const Flipdemoapi = () => {
                 <div>
                     <Navbar className="bg-primary-subtle">
                         <Container>
-                            <Link className='nav-link' to="/">Home</Link>
+                            <Link className='nav-link' to="/">Home-JENIL</Link>
                             <Link className='nav-link' to='/cart'>cart</Link>
                         </Container>
                     </Navbar>
